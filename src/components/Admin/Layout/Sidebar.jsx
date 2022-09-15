@@ -64,7 +64,7 @@ export default function Sidebar() {
               </SidebarItem>
               {/* Setting */}
               <SidebarItem path="setting">
-                <MdSettings size={24} /> Cài đặt
+                <MdSettings size={24} /> Cài đặt tài khoản
               </SidebarItem>
             </div>
           </div>

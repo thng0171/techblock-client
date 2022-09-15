@@ -330,7 +330,7 @@ export default function Datatable({ page }) {
         toast.error(err);
       });
     // console log data array length
-    console.log(data.length);
+    // console.log(data.length);
   }, [page]);
 
   return (
